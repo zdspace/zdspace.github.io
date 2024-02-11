@@ -1,0 +1,24 @@
+---
+layout: about
+title: Home
+permalink: /
+subtitle: About Me
+
+profile:
+  align: right
+  image: prof_pic_color.jpg
+  image_circular: false # crops the image to make it circular
+  more_info: >
+    <p>Zhendong Zhang</p>
+    <p>MSCS@ETHz</p>
+    <p>zdzhang1 at gmail dot com</p>
+
+news: false # includes a list of news items
+latest_posts: true # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
+---
+
+I'm a master student in computer science at [ETH Zürich](https://ethz.ch/en.html). I obtained my bachelor's degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/).
+
+I am currently interested at building intelligent and high-performance systems for emerging areas, such as artificial intelligence and edge computing.
